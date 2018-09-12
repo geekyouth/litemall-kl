@@ -253,3 +253,9 @@ http://xxx.xxx.xxx.xxx:8080/\#/login
 想要快速查找本文的注意事项，请使用 ctrl + f 搜索关键字 “注意”。。。。
 
 <sr-plugin-count>共计：5418 个字</sr-plugin-count>
+
+***
+
+# 致谢：
+
+https://github.com/linlinjava/litemall
